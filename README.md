@@ -2,7 +2,7 @@
 
 Welcome to **PythonProjects**, a collection of my daily Python coding exercises and projects. This repository showcases my journey of improving Python skills through consistent practice.
 
----
+
 
 ## 🛠️ What's Inside?
 
@@ -10,18 +10,15 @@ Welcome to **PythonProjects**, a collection of my daily Python coding exercises 
 - Practical examples to strengthen coding fundamentals.
 - Real-world applications and problem-solving exercises.
 
----
+
 
 ## 📂 Structure
 
-```plaintext
 PythonProjects/
-├── Day1/       # Code for Day 1
-├── Day2/       # Code for Day 2
+1. Day1/Project01       # Band Name Generator
+2. Day2/Project02       # Tip Calculator
 └── README.md   # Main repository readme
-```
 
----
 
 ## ✨ Goals
 
@@ -29,15 +26,8 @@ PythonProjects/
 - Practice consistency in coding.
 - Build a portfolio of diverse projects.
 
----
 
 ## 🤝 Feedback
-
 Feel free to explore, fork, or share feedback! Suggestions and contributions are always welcome.
 
----
-
 ### Happy Coding! 💻🎉
-```
-
----
