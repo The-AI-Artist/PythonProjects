@@ -1,7 +1,7 @@
 # Tip Calculator
 
 ## Project Overview
-This is **Project 1** of the **100 Days of Python Projects** series. The **Tip Calculator** is a simple and interactive Python program designed to help users calculate how much each person should pay when splitting a bill, including a customizable tip percentage. This project is a beginner-friendly exercise that focuses on basic Python concepts, such as taking user input, performing calculations, and formatting output.
+This is **Project 2** of the **100 Days of Python Projects** series. The **Tip Calculator** is a simple and interactive Python program designed to help users calculate how much each person should pay when splitting a bill, including a customizable tip percentage. This project is a beginner-friendly exercise that focuses on basic Python concepts, such as taking user input, performing calculations, and formatting output.
 
 ## How It Works
 1. The program starts with a welcome message for the user.
