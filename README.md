@@ -15,8 +15,10 @@ Welcome to **PythonProjects**, a collection of my daily Python coding exercises 
 ## 📂 Structure
 
 PythonProjects/
-1. Day1/Project01       # Band Name Generator
-2. Day2/Project02       # Tip Calculator
+1. Day01/Project01       # Band Name Generator
+2. Day02/Project02       # Tip Calculator
+3. Day03/Project03       # Treasure Island
+4. Day04/Project04       # Rock Paper Scissors
 └── README.md   # Main repository readme
 
 
