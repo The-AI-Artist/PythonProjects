@@ -19,6 +19,7 @@ PythonProjects/
 2. Day02/Project02       # Tip Calculator
 3. Day03/Project03       # Treasure Island
 4. Day04/Project04       # Rock Paper Scissors
+5. Day05/Project05       # Create a Password Generator
 
 └── README.md   # Main repository readme
 
