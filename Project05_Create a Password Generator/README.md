@@ -36,7 +36,7 @@ How many numbers would you like?
 *Example Output:*
 Before shuffling: `['D', 'e', 'A', 'z', 'M', 's', '&', '%', '5', '8', '1']`
 After shuffling: `['5', '&', 'z', '1', 'M', '%', 'A', 'D', '8', 'e', 's']`
-Your generated password is: `5&z1M%AD8es`
+Your password is: `5&z1M%AD8es`
 
 ## Learning Objectives
 
